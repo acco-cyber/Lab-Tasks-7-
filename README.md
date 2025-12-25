@@ -8,11 +8,7 @@ Lab Tasks 7 and 8: Solve all the problems from W3Schools.
        Special Characters All
 * Java Math All
 * Java Booleans All
-* Java If...Else All
-        if All
-        else All
-        else if All
-        Short Hand If...Else All
+* Java If...Else All        Short Hand If...Else All
         Real-Life Examples All
 * Java Switch All
 * Java While Loop All
