@@ -5,5 +5,5 @@ Lab Tasks 7 and 8: Solve all the problems from W3Schools.
 *        For-Each Loop All
         Real-Life Examples All
 
-* Java Arrays Allb       Loop Through an Array All
+* Java Arrays Allb       Lo
      
