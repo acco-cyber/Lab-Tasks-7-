@@ -7,12 +7,7 @@ Lab Tasks 7 and 8: Solve all the problems from W3Schools.
        Numbers and Strings All
        Special Characters All
 * Java Math All
-* Java Booleans All
-* Java If...Else All        Short Hand If...Else All
-        Real-Life Examples All
-* Java Switch All
-* Java While Loop All
-        Do/While Loop All
+* Java Booleans All        Do/While Loop All
         Real-Life Examples All
 * Java For Loop All
         Nested Loops All
