@@ -9,7 +9,7 @@ Lab Tasks 7 and 8: Solve all the problems from W3Schools.
 * Java Math All
 * Java Booleans All        Do/While Loop All
         Real-Life Examples All
-* Java For Loop All
+* Java For
         Nested Loops All
         For-Each Loop All
         Real-Life Examples All
